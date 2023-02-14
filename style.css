@@ -29,7 +29,7 @@
 	display: grid;
 	grid-template-columns: repeat(4,1fr);
 	gap: 2rem;
-	max-width: 976px;
+	max-width: 975px;
 	margin: 2rem auto;
 }
 .brand-icons{
